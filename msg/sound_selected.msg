@@ -1,3 +1,3 @@
 Header header
 
-int32 sound_index
+string sound_selected
