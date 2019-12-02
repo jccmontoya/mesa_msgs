@@ -52,6 +52,7 @@ find_package(catkin REQUIRED COMPONENTS
    button_msg.msg
    color_selected.msg
    sound_selected.msg
+   audio_button.msg
  )
 
 ## Generate services in the 'srv' folder
