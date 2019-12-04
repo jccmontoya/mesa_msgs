@@ -1,8 +1,8 @@
 Header header
 
 # This is the buttons sequence
-# Light control: blue, red, yellow, green
-# Sound control: blue, red, yellow, green
+# Light control: red, green, blue yellow
+# Sound control: red, green, blue yellow
 bool[] buttons_pressed
 
 bool[] buttons_released
