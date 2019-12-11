@@ -53,6 +53,8 @@ find_package(catkin REQUIRED COMPONENTS
    color_selected.msg
    sound_selected.msg
    audio_button.msg
+   rgb_msg.msg
+   arduino_cmd.msg
  )
 
 ## Generate services in the 'srv' folder
