@@ -1,1 +1,3 @@
-rgb_msg[10] msg
+rgb_msg[50] msg
+bool  fade
+
