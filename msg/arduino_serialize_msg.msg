@@ -1,5 +1,4 @@
 rgb_msg  values
-int8 current
-int8 total
+uint8 current
+uint8 total
 bool fade
-
